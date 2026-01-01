@@ -1,0 +1,43 @@
+[
+    {
+        "version": "Test",
+        "date": "Test",
+        "added": [
+            "Test"
+        ],
+        "changed": [
+            "Fixed: Test",
+            "Improved: Test"
+        ],
+        "removed": [
+            "Test"
+        ],
+        "stream": "combined",
+        "nezur_type": "Nezur Executor",
+        "id": "1"
+    },
+    {
+        "version": "test",
+        "date": "test",
+        "added": [
+            "test"
+        ],
+        "changed": [],
+        "removed": [],
+        "stream": "combined",
+        "nezur_type": "Nezur Executor",
+        "id": "2"
+    },
+    {
+        "version": "asd",
+        "date": "asdasd",
+        "added": [
+            "asdasd"
+        ],
+        "changed": [],
+        "removed": [],
+        "stream": "combined",
+        "nezur_type": "Nezur Executor",
+        "id": "3"
+    }
+]
