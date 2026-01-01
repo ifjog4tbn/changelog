@@ -1,43 +1,41 @@
 [
     {
-        "version": "Test",
-        "date": "Test",
+        "version": "v1",
+        "date": "10.12.2025",
         "added": [
-            "Test"
+            "More UNC"
         ],
         "changed": [
-            "Fixed: Test",
-            "Improved: Test"
+            "Improved: Optimization"
         ],
-        "removed": [
-            "Test"
-        ],
+        "removed": [],
         "stream": "combined",
-        "nezur_type": "Nezur Executor",
+        "nezur_type": "Argus X Executor",
         "id": "1"
     },
     {
-        "version": "test",
-        "date": "test",
+        "version": "v1.2",
+        "date": "16.12.2025",
         "added": [
-            "test"
+            "More UNC"
         ],
         "changed": [],
         "removed": [],
         "stream": "combined",
-        "nezur_type": "Nezur Executor",
+        "nezur_type": "Argus X Executor",
         "id": "2"
     },
     {
-        "version": "asd",
-        "date": "asdasd",
+        "version": "v2.0",
+        "date": "01.01.2026",
         "added": [
-            "asdasd"
+            "Fully fixed tabs",
+            "Stable version"
         ],
         "changed": [],
         "removed": [],
         "stream": "combined",
-        "nezur_type": "Nezur Executor",
+        "nezur_type": "Argus X Executor",
         "id": "3"
     }
 ]
